@@ -4,8 +4,6 @@
 import time
 import random
 
-print("Tell even/odd number")
-
 month = random.randint(0, 3)
 print(month)
 
