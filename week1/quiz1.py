@@ -56,7 +56,7 @@ money = 5
 if money >= 10:
     print("I can buy a burger")
 elif money >= 5:
-    print("I can buy icecream")
+    print("I can buy an ice cream")
 elif money >= 1:
     print("I can buy candy")
 else:
