@@ -4,7 +4,7 @@
 import time
 import random
 
-month = random.randint(0, 3)
+month = random.randint(1, 3)
 print(month)
 
 if month == 1:
