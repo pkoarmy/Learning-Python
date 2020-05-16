@@ -7,7 +7,7 @@ pygame.init()
 # define width=640, height=480
 window = (640,480)
 
-# Let pygame that we are going to use this canvas
+# Let pygame know that we are going to use this canvas
 screen = pygame.display.set_mode(window)
 
 # Create a surface with the same size as the window
