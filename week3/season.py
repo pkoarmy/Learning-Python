@@ -3,7 +3,7 @@
 import random
 
 print("We are going to calculate season from given Month")
-print("We call Sping if the month between March and May")
+print("We call Spring if the month between March and May")
 print("We call Jun - Aug as Summer")
 print("We call Sep - Nov as Fall")
 print("We call Dec - Feb as Winter")
@@ -23,5 +23,5 @@ elif month == 3:
    print("March")
 '''
 
-# pleae complete the Python code to print out what is the season from month
+# please complete the Python code to print out what is the season from month
 # hint : you can use logical operator with if clause
