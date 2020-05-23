@@ -25,3 +25,11 @@ elif month == 3:
 
 # please complete the Python code to print out what is the season from month
 # hint : you can use logical operator with if clause
+if month >= 3 and month <=5:
+   print("Spring")
+elif month >= 6 and month <= 8:
+   print("Summer")
+elif month >= 9 and month <= 11:
+   print("Fall")
+elif month == 12 or month < 3:
+   print("Winter")
