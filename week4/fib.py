@@ -7,5 +7,5 @@ def fib(num):
 
 
 # Output the first 10 numbers
-for n in range(1, 31):
+for n in range(1, 36):
     print("fib(", n, ") =", fib(n))
