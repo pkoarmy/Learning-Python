@@ -5,7 +5,5 @@ def fib(num):
     # Return the sum of the last two fibonacci numbers
     return fib(num-1) + fib(num-2)
 
-
-# Output the first 10 numbers
 for n in range(1, 36):
     print("fib(", n, ") =", fib(n))
